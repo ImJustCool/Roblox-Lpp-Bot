@@ -1,0 +1,12 @@
+{
+    "Auth":{
+        "cookieOne": "",
+        "cookieOne2Step": "",
+        "cookieTwo": "",
+        "cookieTwo2Step": ""
+    },
+    "Details":{
+        "sellPrice": 1,
+        "itemID": 169284783
+    }
+}
